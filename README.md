@@ -10,5 +10,4 @@ https://github.com/evaranshark/techno_spark_test_app/assets/12038961/bad05d92-63
 
 https://github.com/evaranshark/techno_spark_test_app/assets/12038961/bf36b563-3602-4582-be9a-79656288bf51
 
-You can look at web version [https://evaranshark.github.io/technospark_app|here]
-
+You can look at web version [here](https://evaranshark.github.io/technospark_app)
